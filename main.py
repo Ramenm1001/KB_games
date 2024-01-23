@@ -18,3 +18,4 @@ print(lst)
 print('Получилось')
 
 # !Здесь был WaffleQue! >:)
+# DinN тоже ;З
