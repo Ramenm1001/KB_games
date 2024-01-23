@@ -7,6 +7,9 @@ class A:
         # аттрибуты, переменные класса
         # self.x123 = 123
 
+def new_feature():
+    print("hello")
+
 a1 = A()
 setattr(a1, "x123", 123)
 print(a1.x123)
