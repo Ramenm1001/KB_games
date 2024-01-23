@@ -1,6 +1,6 @@
 
 while True:
-    print('UwU')
+    print(' UwU ')
 
 
 
